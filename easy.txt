@@ -1,4 +1,2 @@
 This isn't so baaad. 
 
-git config —global core.editor “code —wait”
-git config --global user.email corey@pursuit.org
